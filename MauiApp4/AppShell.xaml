@@ -8,8 +8,6 @@
     Title="MauiApp4">
 
     <ShellContent
-        Title="Home"
-        ContentTemplate="{DataTemplate local:MainPage}"
-        Route="MainPage" />
-
+        Title="Standard Tip"
+        ContentTemplate="{DataTemplate local:StandardTipPage}" />
 </Shell>
